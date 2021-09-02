@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/draco/static/css/main.5739ad41.chunk.css",
+    "main.js": "/draco/static/js/main.2f0f05f1.chunk.js",
+    "main.js.map": "/draco/static/js/main.2f0f05f1.chunk.js.map",
+    "runtime-main.js": "/draco/static/js/runtime-main.f15b4b2b.js",
+    "runtime-main.js.map": "/draco/static/js/runtime-main.f15b4b2b.js.map",
+    "static/js/2.9c42e66d.chunk.js": "/draco/static/js/2.9c42e66d.chunk.js",
+    "static/js/2.9c42e66d.chunk.js.map": "/draco/static/js/2.9c42e66d.chunk.js.map",
+    "static/js/3.06979242.chunk.js": "/draco/static/js/3.06979242.chunk.js",
+    "static/js/3.06979242.chunk.js.map": "/draco/static/js/3.06979242.chunk.js.map",
+    "index.html": "/draco/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/draco/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.9c42e66d.chunk.js.LICENSE.txt": "/draco/static/js/2.9c42e66d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/draco/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f15b4b2b.js",
+    "static/js/2.9c42e66d.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.2f0f05f1.chunk.js"
+  ]
+}
